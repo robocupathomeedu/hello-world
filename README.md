@@ -1,2 +1,6 @@
 # hello-world
-The hello world repository
+
+hello-world
+
+RoboCup@Home Education
+www.robocupathomeedu.org
